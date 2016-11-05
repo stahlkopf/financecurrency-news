@@ -1,0 +1,17 @@
+scrapy
+rethinkdb
+w3lib
+cssselect
+lxml
+pyOpenSSL
+pyyaml
+queuelib
+twisted
+service_identity
+schedule
+scrapy-heroku
+scrapyd
+scrapyd-client
+urltools
+datetime
+time
